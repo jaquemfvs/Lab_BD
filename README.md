@@ -199,7 +199,7 @@ Para dúvidas ou problemas:
 ---
 ## GIF:
 
-<video controls src="WhatsApp Video 2025-06-27 at 20.06.28-1.mp4" title="GIF"></video>
+
 
 **Desenvolvido com ❤️ para a comunidade católica**
 
