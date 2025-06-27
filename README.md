@@ -163,30 +163,6 @@ O projeto gera automaticamente relatórios com:
 - **Vídeos mais populares** e com maior engajamento
 - **Métricas de performance** por vídeo
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto é baseado no [LB-Project](https://github.com/MarkVN2/LB-Project) e mantém a mesma licença.
-
-## ⚠️ Aviso Legal
-
-Este projeto é apenas para fins educacionais e de pesquisa. Respeite os termos de serviço do YouTube e as políticas de uso da API. O uso excessivo pode resultar em limitação de taxa ou bloqueio.
-
-## 🙏 Agradecimentos
-
-- Projeto original [LB-Project](https://github.com/MarkVN2/LB-Project) por MarkVN2
-- Canal "Frei Gilson / Som do Monte - OFICIAL" pela inspiração
-- Comunidade Python pelas bibliotecas utilizadas
-
 ## 📞 Suporte
 
 Para dúvidas ou problemas:
@@ -198,7 +174,7 @@ Para dúvidas ou problemas:
 
 ---
 ## GIF:
-
+![Demonstração do projeto](./WhatsAppVideo2025-06-27at20.06.28-ezgif.com-video-to-gif-converter.gif)
 
 
 **Desenvolvido com ❤️ para a comunidade católica**
